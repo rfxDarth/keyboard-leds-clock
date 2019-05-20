@@ -1,9 +1,7 @@
 Displays current time using keyboard LED's (Num, Caps, Scroll lock)
 
 Structure:
-6 bits for hours in 24-hr format
-6 bits for minutes
-blank pause for 3 seconds
+6 bits for hours in 24-hr format, 6 bits for minutes, blank pause for 3 seconds
 
 
 e.g.
